@@ -49,7 +49,7 @@ repositories {
 
 // build.gradle.kts
 dependencies {
-    implementation("com.github.eliezer-software-enginner:simple-clipboard:1.0.0")
+    implementation("com.github.eliezer-software-enginner:megalodonte-simple-clipboard:v1.0.0")
 }
 ```
 
@@ -131,7 +131,7 @@ repositories {
 
 // build.gradle.kts
 dependencies {
-    implementation("com.github.eliezer-software-enginner:simple-clipboard:1.0.0")
+    implementation("com.github.eliezer-software-enginner:megalodonte-simple-clipboard:v1.0.0")
 }
 ```
 
